@@ -2,9 +2,9 @@
 
 A real-time sign language to speech app for deaf and mute people, to use in meetings and healthcare appointments.
 
-This project was built with [Lovable](https://lovable.dev).
+To View this project: https://signbridgee.lovable.app
 
-## Build with Lovable
+## Build with Lovable or Extract to Cursor, Visual studio. Make your own twist on it!
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/61ca0855-bdb5-460e-93aa-9c517dd83b76).
 
